@@ -46,7 +46,7 @@ AI models specialized for security applications and scenarios.
 - [Foundation-Sec-8B](https://huggingface.co/fdtn-ai/Foundation-Sec-8B) - Recent 8B parameter security-specialized model outperforming Llama 3.1 8B by +3.25% on CTI-MCQA and +8.83% on CTI-RCM, rivaling 70B models with 10x fewer parameters.
 - [Llama-Primus-Base](https://huggingface.co/trendmicro-ailab/Llama-Primus-Base) - Foundation model with cybersecurity-specific pretraining on proprietary corpus.
 - [Llama-Primus-Merged](https://huggingface.co/trendmicro-ailab/Llama-Primus-Merged) - Combined model through pretraining and instruction fine-tuning.
-- [Llama-Primus-Reasoning](https://huggingface.co/trendmicro-ailab/Llama-Primus-Reasoning) - Reasoning-specialized model enhancing security certification through expert reasoning patterns.
+- [Llama-Primus-Reasoning](https://huggingface.co/trendmicro-ailab/Llama-Primus-Reasoning) - Reasoning-specialized model enhancing security certification through o1-distilled reasoning patterns.
 
 ## Datasets
 
@@ -57,7 +57,7 @@ Resources designed for training and fine-tuning AI systems on security-related t
 - [Primus-FineWeb](https://huggingface.co/datasets/trendmicro-ailab/Primus-FineWeb) - Filtered cybersecurity corpus (2.57B tokens) derived from FineWeb using classifier-based selection.
 
 ### IFT & Capability Datasets
-- [Primus-Reasoning](https://huggingface.co/datasets/trendmicro-ailab/Primus-Reasoning) - Cybersecurity reasoning tasks with expert-generated reasoning steps and reflection processes.
+- [Primus-Reasoning](https://huggingface.co/datasets/trendmicro-ailab/Primus-Reasoning) - Cybersecurity reasoning tasks with o1-generated reasoning steps and reflection processes.
 - [Primus-Instruct](https://huggingface.co/datasets/trendmicro-ailab/Primus-Instruct) - Expert-curated cybersecurity scenario instructions with GPT-4o generated responses spanning diverse tasks.
 
 ## Benchmarks & Evaluation
