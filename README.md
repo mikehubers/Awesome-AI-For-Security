@@ -91,8 +91,8 @@ Academic and industry research on AI applications in security.
 
 ### Models & Datasets
 
-- [Primus Paper](https://arxiv.org/abs/2502.11191) - First open-source cybersecurity dataset collection addressing critical pretraining corpus shortage.
 - [Foundation-Sec Technical Report](https://huggingface.co/fdtn-ai/Foundation-Sec-8B/blob/main/Technical_Report.pdf) - Detailed methodology for domain-adaptation of Llama-3.1 for cybersecurity applications.
+- [Primus Paper](https://arxiv.org/abs/2502.11191) - First open-source cybersecurity dataset collection addressing critical pretraining corpus shortage.
 
 ### Benchmarking & Evaluations
 
