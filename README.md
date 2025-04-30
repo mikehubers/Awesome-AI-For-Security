@@ -2,6 +2,8 @@
 
 > A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.
 
+Found this resource helpful for your security research? Consider adding a star ⭐ to support the ongoing curation effort.
+
 ## Contents
 
 - [Related Awesomes Lists](#related-awesomes-lists)
@@ -146,6 +148,10 @@ AI systems designed to perform security-related tasks with varying degrees of au
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AmanPriyanshu/Awesome-AI-For-Security&type=Date)](https://www.star-history.com/#AmanPriyanshu/Awesome-AI-For-Security&Date)
 
 ## License
 
